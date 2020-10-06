@@ -6,7 +6,7 @@ For numbers which are multiples of both 3 and 5, print "FizzBuzz" instead of the
 (This is a very common coding problem)
 """
 
-//solution
+#solution
 for i in range(1,100):
     if i%3==0 and i%5==0:
         print("FizzBuzz")
